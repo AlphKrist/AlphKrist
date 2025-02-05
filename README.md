@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Allan Joseph Macalindong!
+# 👋 Hi, I'm Allan Joseph Macalindong!
 
-### 🚀 Aspiring Cloud Engineer | Full-Stack Developer | Tech Enthusiast  
+## 🚀 Aspiring Cloud Engineer | Full-Stack Developer | Tech Enthusiast  
 
 Welcome to my GitHub! I'm a passionate **Information Technology** student with experience in **full-stack mobile development, game development, and cloud technologies**. I'm always eager to learn new skills, build innovative solutions, and contribute to impactful projects.  
 
