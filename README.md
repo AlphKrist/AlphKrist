@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a passionate **Information Technology** student with e
 
 ### 💡 Projects & Experience  
 📱 **Pillagram (Capstone Project) - 2024**  
-- Developed a **React Native** mobile app improving English grammar & reading comprehension.  
+- Developed a **React Native** mobile app improving English grammar & reading comprehension exclusively for senior high school students of San Pedro College of Business Administration.  
 - Increased post-test scores by **70%** after pilot testing.  
 - Achieved **92.78% approval** for readability & user experience.  
 - Backend powered by **Node.js & Appwrite** for real-time data management.  
